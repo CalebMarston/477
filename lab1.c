@@ -15,11 +15,11 @@ int main()
 	printf("THe largest int in dec is %d\n", INT_MAX);
 	printf("The largest int in hex is %x\n", INT_MAX);
 	printf("The largest unsigned int in dec is %u\n",UINT_MAX );
-	printf("The largest unsigned int in hex is %u\n", UINT_MAX);
+	printf("The largest unsigned int in hex is %x\n", UINT_MAX);
 	printf("The largest long int in dec is %ld\n", LONG_MAX);
 	printf("The largest long int in hex is %lx\n", LONG_MAX);
 	printf("The largest unsigned long int in dec is %u\n", ULONG_MAX);
-	printf("The largest unsigned long int to hex is %u\n", ULONG_MAX);
+	printf("The largest unsigned long int to hex is %x\n", ULONG_MAX);
 	
 
 	//something cool, determines if the int is the same size
